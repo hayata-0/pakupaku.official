@@ -1,5 +1,4 @@
 export const themeData = {
-  "logo": "/image/app_icon_maru.png",
   "navbar": [
     {
       "text": "HOME",
@@ -19,6 +18,7 @@ export const themeData = {
       "selectLanguageName": "English"
     }
   },
+  "logo": null,
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",
