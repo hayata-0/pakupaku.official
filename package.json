@@ -1,0 +1,23 @@
+{
+  "name": "pakupaku.official",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayata-0/pakupaku.official.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayata-0/pakupaku.official/issues"
+  },
+  "homepage": "https://github.com/hayata-0/pakupaku.official#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.27"
+  }
+}
