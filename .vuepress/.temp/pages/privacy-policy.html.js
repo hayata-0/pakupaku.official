@@ -69,20 +69,13 @@ export const data = {
   ],
   "filePathRelative": "privacy-policy.md",
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1638633085000,
+    "contributors": [
+      {
+        "name": "hayata-0",
+        "email": "soccerkozo8814@docomo.ne.jp",
+        "commits": 1
+      }
+    ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }

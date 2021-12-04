@@ -11,26 +11,18 @@ export const data = {
   "headers": [],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1638625945000,
+    "updatedTime": 1638633085000,
     "contributors": [
       {
         "name": "Hayata Oono",
         "email": "79523559+hayata-0@users.noreply.github.com",
         "commits": 1
+      },
+      {
+        "name": "hayata-0",
+        "email": "soccerkozo8814@docomo.ne.jp",
+        "commits": 1
       }
     ]
   }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
