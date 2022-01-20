@@ -1,12 +1,12 @@
 ---
 home: true
-heroImage: /image/app_icon_maru.png
-heroAlt: "pakupakulogo"
-heroText: "pakupakuApp"
-tagline: "飲食サービスぱくぱく"
+# heroImage: /image/app_icon_maru.png
+# heroAlt: "pakupakulogo"
+# heroText: "pakupakuApp"
+# tagline: "飲食サービスぱくぱく"
 actions:
      - text: "AppStore"
-       link: "https://apple.co/3pAinzb"
+       link: "https://apps.apple.com/jp/app/pakupaku/id1602063106"
        type: "primary"
 features:
      - title: 質問に答える
