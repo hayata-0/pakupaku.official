@@ -4,20 +4,20 @@ home: true
 # heroAlt: "pakupakulogo"
 # heroText: "pakupakuApp"
 # tagline: "飲食サービスぱくぱく"
-# actions:
-#     - text: "AppStore"
-#       link: "https://apple.co/3pAinzb"
-#       type: "primary"
-# features:
-#     - title: コーデのクローゼット化
-#       details: コーデをメインページで確認できる。
-#     - title: 毎日のコーデを助ける
-#       details: コーデに迷ったらこのアプリから過去のコーデを探しコーデに役立てることができる。
-#     - title: カテゴリー分け
-#       details: コーデに対してカテゴリーを付与し、カテゴリー毎に管理できる。
+actions:
+    - text: "AppStore"
+      link: "https://apps.apple.com/jp/app/pakupaku/id1602063106"
+      type: "primary"
+features:
+    - title: 質問に答える
+      details: 質問に答えると自分と合ったお店に出会える
+    - title: 検索機能
+      details: APIを使用して検索機能充実
+    - title: お気に入り
+      details: みんなのお気に入りに出会える
 footer: © 2021 pakupaku.
 ---
 
-<!-- ## コンセプト
+## コンセプト
 
-私たちは、このアプリでファッションの在り方を変えたいと思い、このアプリを作成しました。朝の少ない時間にコーデを考えるのがめんどくさい、一度着たコーデ忘れてしまう、このような悩みを解決するためにこのサービスがあります。 -->
+このアプリは「行きたい店にすぐにマッチング」を再現した飲食サービスアプリになります。

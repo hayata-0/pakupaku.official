@@ -19,5 +19,8 @@
   "homepage": "https://github.com/hayata-0/pakupaku.official#readme",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.27"
+  },
+  "dependencies": {
+    "@react-native-firebase/app": "^13.1.0"
   }
 }
