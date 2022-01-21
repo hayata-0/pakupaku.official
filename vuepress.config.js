@@ -2,7 +2,7 @@ module.exports = {
     title: "pakupaku",
     description: "飲食サービスアプリ",
     themeConfig: {
-        // logo: "/image/app_icon_maru.png",
+        logo: "/image/pakupaku_icon.png",
         navbar: [
             // NavbarItem
             {
