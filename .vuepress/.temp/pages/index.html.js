@@ -30,7 +30,7 @@ export const data = {
         "details": "みんなのお気に入りに出会える"
       }
     ],
-    "footer": "© 2021 pakupaku."
+    "footer": "© 2021 pakupaku"
   },
   "excerpt": "",
   "headers": [
@@ -42,12 +42,12 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1642745589000,
+    "updatedTime": 1642746124000,
     "contributors": [
       {
         "name": "hayata-0",
         "email": "soccerkozo8814@docomo.ne.jp",
-        "commits": 3
+        "commits": 4
       },
       {
         "name": "Hayata Oono",

@@ -1,4 +1,5 @@
 export const themeData = {
+  "logo": "/image/pakupaku_icon.png",
   "navbar": [
     {
       "text": "HOME",
@@ -18,7 +19,6 @@ export const themeData = {
       "selectLanguageName": "English"
     }
   },
-  "logo": null,
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",

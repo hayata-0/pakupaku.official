@@ -15,7 +15,7 @@ features:
       details: APIを使用して検索機能充実
     - title: お気に入り
       details: みんなのお気に入りに出会える
-footer: © 2021 pakupaku.
+footer: © 2021 pakupaku
 ---
 
 ## コンセプト
