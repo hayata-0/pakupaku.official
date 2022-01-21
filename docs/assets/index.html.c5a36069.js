@@ -1,0 +1,1 @@
+const a={key:"v-8daa1a0e",path:"/",title:"",lang:"en-US",frontmatter:{home:!0,footer:"\xA9 2021 pakupaku."},excerpt:"",headers:[],git:{updatedTime:1642682118e3,contributors:[{name:"hayata-0",email:"soccerkozo8814@docomo.ne.jp",commits:2},{name:"Hayata Oono",email:"79523559+hayata-0@users.noreply.github.com",commits:1}]},filePathRelative:"README.md"};export{a as data};

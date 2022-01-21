@@ -103,7 +103,6 @@ export const data = {
       "children": []
     }
   ],
-  "filePathRelative": "terms-of-service.md",
   "git": {
     "updatedTime": 1638633085000,
     "contributors": [
@@ -113,18 +112,6 @@ export const data = {
         "commits": 1
       }
     ]
-  }
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
+  },
+  "filePathRelative": "terms-of-service.md"
 }
